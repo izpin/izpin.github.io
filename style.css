@@ -1,0 +1,36 @@
+html {
+    background: #003366 url("4bendblue.png") no-repeat center center fixed;
+    -webkit-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -ms-background-size: 100% auto;
+    -o-background-size: 100% auto;
+    background-size: 100% auto;
+}
+
+h1, lead, p {
+    font-family: 'Cutive Mono', monospace;
+}
+
+lead, p {
+    font-size: 1.5rem;
+  }
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+}
+ 
+
+#social a:hover {
+    color:#ffedbb !important;
+    transform: translateY(-3px);
+}
+
+/* .rounded-circle {
+    margin-top: 30%;
+} */
+
+/* .rounded-circle:hover {
+    -webkit-filter: sepia(1);
+    filter: sepia(1);
+  } */
