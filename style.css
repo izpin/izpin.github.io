@@ -32,7 +32,7 @@ nav ul li {
 
 .img-fluid {
     max-width: 70%; /* or to whatever you want here */
-    max-height: auto; /* or to whatever you want here */  
+    max-height: 310px; /* or to whatever you want here */  
 } 
 /* .rounded-circle:hover {
     -webkit-filter: sepia(1);
