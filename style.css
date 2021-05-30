@@ -26,10 +26,14 @@ nav ul li {
     transform: translateY(-3px);
 }
 
-/* .rounded-circle {
-    margin-top: 30%;
-} */
+#me {
+    margin-top: 7%;
+}
 
+.img-fluid {
+    max-width: 70%; /* or to whatever you want here */
+    max-height: auto; /* or to whatever you want here */  
+} 
 /* .rounded-circle:hover {
     -webkit-filter: sepia(1);
     filter: sepia(1);
