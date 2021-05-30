@@ -34,7 +34,7 @@ nav ul li {
 
 .rounded-circle {
     max-width: 75%; /* or to whatever you want here */
-    max-height: 450px; /* or to whatever you want here */  
+    max-height: 500px; /* or to whatever you want here */  
 } 
 /* .rounded-circle:hover {
     -webkit-filter: sepia(1);
